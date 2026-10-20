@@ -82,7 +82,7 @@ alt=""
 02 / GITHUB ACTIVITY
 
 <br><img
-src="https://streak-stats.demolab.com?user=mrdevil42023&theme=dark&hide_border=true&background=050505&ring=FF2020&fire=FF2020&currStreakLabel=FF2020&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"
+src="https://streak-stats.demolab.com?user=kaixhdev&theme=dark&hide_border=true&background=050505&ring=FF2020&fire=FF2020&currStreakLabel=FF2020&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"
 width="80%"
 alt="GitHub Contribution Streak"
 />
@@ -90,7 +90,7 @@ alt="GitHub Contribution Streak"
 <br><br>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=mrdevil42023&bg_color=050505&color=FFFFFF&line=FF2020&point=FF4040&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"
+src="https://github-readme-activity-graph.vercel.app/graph?username=kaixhdev&bg_color=050505&color=FFFFFF&line=FF2020&point=FF4040&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"
 width="95%"
 alt="GitHub Contribution Activity"
 />
@@ -99,8 +99,8 @@ alt="GitHub Contribution Activity"
 
 <!-- GITHUB PROFILE --><a href="https://github.com/mrdevil42023">
   <img
-    src="https://img.shields.io/badge/GITHUB-@mrdevil42023-050505?style=for-the-badge&logo=github&logoColor=FF2020&labelColor=050505"
-    alt="GitHub @mrdevil42023"
+    src="https://img.shields.io/badge/GITHUB-@kaixhdev-050505?style=for-the-badge&logo=github&logoColor=FF2020&labelColor=050505"
+    alt="GitHub @kaixhdev"
   />
 </a><br><br>
 
